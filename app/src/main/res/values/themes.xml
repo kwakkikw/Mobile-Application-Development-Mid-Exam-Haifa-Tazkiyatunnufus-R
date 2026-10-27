@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MADMidExamIT2001202500138HaifaTazkiyatunnufusR" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MADMidExamIT2001202500138HaifaTazkiyatunnufusR" parent="Base.Theme.MADMidExamIT2001202500138HaifaTazkiyatunnufusR" />
+</resources>
